@@ -13,3 +13,7 @@
 ### 5. [compose](05-compose.js)
 
 ### 6. [循环有序列表查找](06-find.js)
+
+### 7. [深拷贝](07-deepCopy.js)
+
+### 8. [数组降维](08-flatten.js)
