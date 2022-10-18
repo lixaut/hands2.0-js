@@ -35,3 +35,5 @@
 ### 17. [实现快排](./17-quickSort.js)
 
 ### 18. [周期执行某个函数n次](./18-repeatFunc.js)
+
+### 19. [字符串反转](./19-reverseString.js)
