@@ -40,3 +40,8 @@
 
 ### 20. [节流与防抖](./20-throttle&debounce.js)
 
+### 21. [双链表](./21-DoublyLinkedList.js)
+
+### 22. [手写 new](./22-_new.js)
+
+### 23. [发布订阅模式](./23-EventEmitter.js)
