@@ -9,4 +9,4 @@ function sum(a, b) {
 }
 
 // test
-console.log(sum(7, 8));
+console.log(sum(8, 2));
