@@ -47,3 +47,5 @@
 ### 23. [发布订阅模式](./23-EventEmitter.js)
 
 ### 24. [深拷贝2.0](./24-deepClone.js)
+
+### 25. [call&apply&bind2.0](./25-call&apply&bind.js)
